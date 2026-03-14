@@ -1,3 +1,5 @@
+> **This repo has been migrated to [GitHub](https://github.com/thoughtsre/merging-wallpapers).**
+
 # Merging wallpapers
 
 This little project emerged out of my frustration with GNOME3 not supporting separate wallpapers for each monitor in a multi-monitor setup.
